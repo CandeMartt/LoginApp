@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppTest
+build_property.ProjectDir = C:\Users\CANDELA\source\repos\AppTest\AppTest\
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Controls/FlyoutHeaderControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Controls.FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\FlyoutHeaderControl.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Views/Dashboard/AdminDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Views.Dashboard.AdminDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\AdminDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\AdminDashboardPage.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Views/Dashboard/DashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Views.Dashboard.DashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\DashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\DashboardPage.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Views/Dashboard/StudentDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Views.Dashboard.StudentDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\StudentDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\StudentDashboardPage.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Views/Dashboard/TeacherDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Views.Dashboard.TeacherDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\TeacherDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\TeacherDashboardPage.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Views/Startup/LoadingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Views.Startup.LoadingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startup\LoadingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startup\LoadingPage.xaml
+
+[C:/Users/CANDELA/source/repos/AppTest/AppTest/Views/Startup/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppTest.Views.Startup.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startup\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startup\LoginPage.xaml
